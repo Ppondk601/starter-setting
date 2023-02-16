@@ -11,4 +11,12 @@
     box-sizing:border-box;
     color:inherit;
     transition : all 0.25 ease;
+    font-family:"Montserrat",sans-serif;
+}
+body{
+    min-height: 100vh;
+    min-width: 100vw;
+    overflow-x:hidden;
+    overflow-y:scroll;
+    background-color: $primary-color;
 }
